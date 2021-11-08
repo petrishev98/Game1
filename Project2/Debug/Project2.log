@@ -1,0 +1,35 @@
+﻿  Source.cpp
+d:\димас\проект vs17 тестовое\project2\project2\source.cpp(245): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\димас\проект vs17 тестовое\project2\project2\source.cpp(246): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\димас\проект vs17 тестовое\project2\project2\source.cpp(247): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\димас\проект vs17 тестовое\project2\project2\source.cpp(248): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\димас\проект vs17 тестовое\project2\project2\source.cpp(249): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\димас\проект vs17 тестовое\project2\project2\source.cpp(250): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\димас\проект vs17 тестовое\project2\project2\source.cpp(294): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\димас\проект vs17 тестовое\project2\project2\source.cpp(320): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\димас\проект vs17 тестовое\project2\project2\source.cpp(324): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Project2.vcxproj -> D:\Димас\проект VS17 тестовое\Project2\Debug\Project2.exe

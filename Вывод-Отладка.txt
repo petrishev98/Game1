@@ -1,0 +1,80 @@
+﻿"Project2.exe" (Win32). Загружено "D:\Димас\проект VS17 тестовое\Project2\Debug\Project2.exe". Символы загружены.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Program Files\AVAST Software\Avast\x86\aswhook.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "D:\Димас\проект VS17 тестовое\Project2\Debug\sfml-graphics-d-2.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "D:\Димас\проект VS17 тестовое\Project2\Debug\sfml-window-d-2.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "D:\Димас\проект VS17 тестовое\Project2\Debug\sfml-system-d-2.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\winmm.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\user32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\gdi32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\lpk.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\usp10.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\advapi32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\sspicli.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptbase.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\api-ms-win-core-localization-l1-2-0.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\api-ms-win-core-processthreads-l1-1-1.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\api-ms-win-core-file-l1-2-0.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\api-ms-win-core-timezone-l1-1-0.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\api-ms-win-core-file-l2-1-0.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\api-ms-win-core-synch-l1-2-0.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\opengl32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\glu32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ddraw.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\dciman32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\setupapi.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\cfgmgr32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\oleaut32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ole32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\devobj.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\dwmapi.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\imm32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\msctf.dll". Невозможно найти или открыть PDB-файл.
+Поток 0x3aa4 завершился с кодом 0 (0x0).
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\uxtheme.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\nvoglv32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\shell32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\shlwapi.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\wtsapi32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\version.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\advapi32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Выгружено "C:\Windows\SysWOW64\advapi32.dll"
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\gdi32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Выгружено "C:\Windows\SysWOW64\gdi32.dll"
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\wintrust.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\crypt32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\msasn1.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntmarta.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\Wldap32.dll". Невозможно найти или открыть PDB-файл.
+Поток 0x3904 завершился с кодом 0 (0x0).
+Поток 0x4b44 завершился с кодом 0 (0x0).
+Поток 0x27f0 завершился с кодом 0 (0x0).
+Поток 0x4b10 завершился с кодом 0 (0x0).
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\shell32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Выгружено "C:\Windows\SysWOW64\shell32.dll"
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\powrprof.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Выгружено "C:\Windows\SysWOW64\powrprof.dll"
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\winsta.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\dinput8.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\hid.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ole32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ole32.dll"
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ole32.dll". Невозможно найти или открыть PDB-файл.
+"Project2.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ole32.dll"
+"Project2.exe" (Win32). Загружено "C:\Windows\SysWOW64\clbcatq.dll". Невозможно найти или открыть PDB-файл.
+Поток 0x38dc завершился с кодом 0 (0x0).
+Поток 0x3788 завершился с кодом 0 (0x0).
+Поток 0x3cb8 завершился с кодом 0 (0x0).
+Поток 0x3cc4 завершился с кодом 0 (0x0).
+Поток 0x390c завершился с кодом 0 (0x0).
+Поток 0x4318 завершился с кодом 0 (0x0).
+Поток 0x46f8 завершился с кодом 0 (0x0).
+Программа "[10116] Project2.exe" завершилась с кодом 0 (0x0).
